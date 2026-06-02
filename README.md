@@ -1,4 +1,4 @@
-# 🌿🚀 AstroDome — DevSecOps Module
+# AstroDome — DevSecOps Module
 
 > Ecossistema Fechado de Suporte à Vida com segurança integrada desde o código até o deploy.
 
@@ -80,7 +80,7 @@ Para que o pipeline funcione, configure os seguintes secrets em:
 | `TELEMETRY_DB_PASSWORD` | Senha do banco de dados de telemetria |
 | `ORBITAL_API_TOKEN` | Token de autenticação do serviço orbital |
 
-> ⚠️ **NUNCA** coloque esses valores diretamente no código ou em arquivos YAML commitados.
+> **NUNCA** coloque esses valores diretamente no código ou em arquivos YAML commitados.
 
 ---
 
