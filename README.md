@@ -1,4 +1,4 @@
-# AstroDome — DevSecOps Module 
+# AstroDome - DevSecOps Module 
 
 > Ecossistema Fechado de Suporte à Vida com segurança integrada desde o código até o deploy.
 
@@ -115,9 +115,9 @@ Veja a pasta [`simulation/SIMULACAO.md`](./simulation/SIMULACAO.md) para o cená
 
 | ODS | Relação |
 |-----|---------|
-| ODS 2 — Fome Zero | AstroDome viabiliza produção alimentar segura no espaço |
-| ODS 9 — Indústria e Inovação | Pipeline DevSecOps garante infraestrutura resiliente e segura |
-| ODS 17 — Parcerias | Uso de APIs abertas (NASA) com segurança e conformidade |
+| ODS 2 - Fome Zero | AstroDome viabiliza produção alimentar segura no espaço |
+| ODS 9 - Indústria e Inovação | Pipeline DevSecOps garante infraestrutura resiliente e segura |
+| ODS 17 - Parcerias | Uso de APIs abertas (NASA) com segurança e conformidade |
 
 ---
 
