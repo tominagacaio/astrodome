@@ -1,4 +1,4 @@
-# AstroDome - DevSecOps Module 
+# GreenHouse - DevSecOps Module 
 
 > Ecossistema Fechado de Suporte à Vida com segurança integrada desde o código até o deploy.
 
